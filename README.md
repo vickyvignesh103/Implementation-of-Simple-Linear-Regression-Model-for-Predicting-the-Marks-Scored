@@ -11,11 +11,12 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Get the independent variable X and dependent variable Y.
 2. Calculate the mean of the X -values and the mean of the Y -values.
 3. Find the slope m of the line of best fit using the formula.
-4. <img width="462" height="199" alt="WhatsApp Image 2026-04-24 at 4 12 58 PM" src="https://github.com/user-attachments/assets/255a2726-0940-4c12-8b82-a76d90ccb756" />
+ <img width="462" height="199" alt="WhatsApp Image 2026-04-24 at 4 12 58 PM" src="https://github.com/user-attachments/assets/255a2726-0940-4c12-8b82-a76d90ccb756" />
 
-5. Compute the y -intercept of the line by using the formula:
-   b=Yˉ−mXˉ
-6. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation
+4 Compute the y -intercept of the line by using the formula:
+     
+      b=Yˉ−mXˉ
+5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation
 Y=mX+b and plot the scatterplot
 
 ## Program:
